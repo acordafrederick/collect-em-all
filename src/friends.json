@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Bug Badge",
+    "image": "https://cdn.bulbagarden.net/upload/a/a5/Bug_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 2,
+    "name": "Rain Badge",
+    "image": "https://cdn.bulbagarden.net/upload/9/9b/Rain_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 3,
+    "name": "Mind Badge",
+    "image": "https://cdn.bulbagarden.net/upload/c/cc/Mind_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 4,
+    "name": "Feather Badge",
+    "image": "https://cdn.bulbagarden.net/upload/6/62/Feather_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 5,
+    "name": "Balance Badge",
+    "image": "https://cdn.bulbagarden.net/upload/6/63/Balance_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 6,
+    "name": "Heat Badge",
+    "image": "https://cdn.bulbagarden.net/upload/c/c4/Heat_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 7,
+    "name": "Dynamo Badge",
+    "image": "https://cdn.bulbagarden.net/upload/3/34/Dynamo_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 8,
+    "name": "Knuckle Badge",
+    "image": "https://cdn.bulbagarden.net/upload/9/97/Knuckle_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 9,
+    "name": "Stone Badge",
+    "image": "https://cdn.bulbagarden.net/upload/6/63/Stone_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 10,
+    "name": "Cliff Badge",
+    "image": "https://cdn.bulbagarden.net/upload/3/39/Cliff_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 11,
+    "name": "Rumble Badge",
+    "image": "https://cdn.bulbagarden.net/upload/d/d4/Rumble_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 12,
+    "name": "Plant Badge",
+    "image": "https://cdn.bulbagarden.net/upload/7/7d/Plant_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 13,
+    "name": "Voltage Badge",
+    "image": "https://cdn.bulbagarden.net/upload/f/fc/Voltage_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 14,
+    "name": "Fairy Badge",
+    "image": "https://cdn.bulbagarden.net/upload/d/d1/Fairy_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 15,
+    "name": "Psychic Badge",
+    "image": "https://cdn.bulbagarden.net/upload/1/13/Psychic_Badge.png",
+    "class": "badge"
+  },
+  {
+    "id": 16,
+    "name": "Iceberg Badge",
+    "image": "https://cdn.bulbagarden.net/upload/8/84/Iceberg_Badge.png",
+    "class": "badge"
+  }
+]

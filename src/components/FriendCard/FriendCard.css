@@ -1,0 +1,18 @@
+img {
+  height: 130px;
+  width: 130px;
+  background: linear-gradient(to bottom right, #fefbd8, #ffef96);
+  cursor: pointer;
+}
+
+img:hover {
+  background: linear-gradient(to bottom right, #ffef96, #fefbd8);
+}
+
+.img-thumbnail {
+  margin: 5px;
+}
+
+.img-thumbnail:hover {
+  transform: scale(1.05);
+}
